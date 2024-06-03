@@ -32,14 +32,14 @@
     </tr>
     <tr>
       <td>
-        <img src="Original_Videos/U3D/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Original_Videos/U3D/v_Haircut.gif" alt="Haircut" width="125" />
-        <img src="Original_Videos/U3D/v_HandstandWalking.gif" alt="HandstandWalking" width="125" />
+        <img src="Original_Videos/U-SA/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Original_Videos/U-SA/v_Haircut.gif" alt="Haircut" width="125" />
+        <img src="Original_Videos/U-SA/v_HandstandWalking.gif" alt="HandstandWalking" width="125" />
       </td>
       <td>
-        <img src="Adversarial_Videos/U3D/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Adversarial_Videos/U3D/v_Haircut.gif" alt="Haircut" width="125" />
-        <img src="Adversarial_Videos/U3D/v_HandStandWalking.gif" alt="HandstandWalking" width="125" />
+        <img src="Adversarial_Videos/U-SA/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Adversarial_Videos/U-SA/v_Haircut.gif" alt="Haircut" width="125" />
+        <img src="Adversarial_Videos/U-SA/v_HandStandWalking.gif" alt="HandstandWalking" width="125" />
       </td>
     </tr>
   </table>
