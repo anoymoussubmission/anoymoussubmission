@@ -8,14 +8,14 @@
     </tr>
     <tr>
       <td>
-        <img src="Original_Videos/SparseAttack/v_ApplyEyeMakeup_g04_c03.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Original_Videos/SparseAttack/v_Haircut_g04_c04.gif" alt="Haircut" width="125" />
-        <img src="Original_Videos/SparseAttack/v_HandstandWalking_g03_c04.gif" alt="HandstandWalking" width="125" />
+        <img src="Original_Videos/SA/v_ApplyEyeMakeup_g04_c03.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Original_Videos/SA/v_Haircut_g04_c04.gif" alt="Haircut" width="125" />
+        <img src="Original_Videos/SA/v_HandstandWalking_g03_c04.gif" alt="HandstandWalking" width="125" />
       </td>
       <td>
-        <img src="Adversarial_Videos/SparseAttack/v_ApplyEyeMakeup_g04_c03.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Adversarial_Videos/SparseAttack/v_Haircut_g04_c04.gif" alt="Haircut" width="125" />
-        <img src="Adversarial_Videos/SparseAttack/v_HandstandWalking_g03_c04.gif" alt="HandstandWalking" width="125" />
+        <img src="Adversarial_Videos/SA/v_ApplyEyeMakeup_g04_c03.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Adversarial_Videos/SA/v_Haircut_g04_c04.gif" alt="Haircut" width="125" />
+        <img src="Adversarial_Videos/SA/v_HandstandWalking_g03_c04.gif" alt="HandstandWalking" width="125" />
       </td>
     </tr>
   </table>
@@ -56,14 +56,14 @@
     </tr>
     <tr>
       <td>
-        <img src="Original_Videos/Geo-Trap/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Original_Videos/Geo-Trap/v_Haircut.gif" alt="Haircut" width="125" />
-        <img src="Original_Videos/Geo-Trap/v_HandStandWalking.gif" alt="HandstandWalking" width="125" />
+        <img src="Original_Videos/DA/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Original_Videos/DA/v_Haircut.gif" alt="Haircut" width="125" />
+        <img src="Original_Videos/DA/v_HandStandWalking.gif" alt="HandstandWalking" width="125" />
       </td>
       <td>
-        <img src="Adversarial_Videos/Geo-Trap/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Adversarial_Videos/Geo-Trap/v_Haircut.gif" alt="Haircut" width="125" />
-        <img src="Adversarial_Videos/Geo-Trap/v_HandStandWalking.gif" alt="HandstandWalking" width="125" />
+        <img src="Adversarial_Videos/DA/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Adversarial_Videos/DA/v_Haircut.gif" alt="Haircut" width="125" />
+        <img src="Adversarial_Videos/DA/v_HandStandWalking.gif" alt="HandstandWalking" width="125" />
       </td>
     </tr>
   </table>
@@ -81,14 +81,14 @@
     </tr>
     <tr>
       <td>
-        <img src="Original_Videos/StyleFool/v_ApplyEyeMakeup_g04_c05.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Original_Videos/StyleFool/v_Haircut_g05_c03.gif" alt="Haircut" width="125" />
-        <img src="Original_Videos/StyleFool/v_HandstandWalking_g04_c03.gif" alt="HandstandWalking" width="125" />
+        <img src="Original_Videos/U-DA/v_ApplyEyeMakeup_g04_c05.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Original_Videos/U-DA/v_Haircut_g05_c03.gif" alt="Haircut" width="125" />
+        <img src="Original_Videos/U-DA/v_HandstandWalking_g04_c03.gif" alt="HandstandWalking" width="125" />
       </td>
       <td>
-        <img src="Adversarial_Videos/StyleFool/v_ApplyEyeMakeup_g04_c05.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Adversarial_Videos/StyleFool/v_Haircut_g05_c03.gif" alt="Haircut" width="125" />
-        <img src="Adversarial_Videos/StyleFool/v_HandstandWalking_g04_c03.gif" alt="HandstandWalking" width="125" />
+        <img src="Adversarial_Videos/U-DA/v_ApplyEyeMakeup_g04_c05.gif" alt="ApplyEyeMakeup" width="125" />
+        <img src="Adversarial_Videos/U-DA/v_Haircut_g05_c03.gif" alt="Haircut" width="125" />
+        <img src="Adversarial_Videos/U-DA/v_HandstandWalking_g04_c03.gif" alt="HandstandWalking" width="125" />
       </td>
     </tr>
   </table>
